@@ -1,3 +1,4 @@
+#The weight of the package 
 weight = 1.5
 
 # Ground Shipping
